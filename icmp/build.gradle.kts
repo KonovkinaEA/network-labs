@@ -23,5 +23,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("uni.lizsa.web.MainKt")
+    mainClass.set("uni.lizsa.icmp.MainKt")
 }

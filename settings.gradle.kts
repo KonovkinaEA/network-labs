@@ -4,3 +4,7 @@ plugins {
 }
 rootProject.name = "network-labs"
 include("web-server")
+include("udp-pinger")
+include("proxy")
+include("icmp")
+include("smtp")
