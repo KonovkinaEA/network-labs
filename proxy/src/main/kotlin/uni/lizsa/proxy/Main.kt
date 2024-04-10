@@ -8,7 +8,7 @@ import java.io.PrintWriter
 import java.net.Socket
 
 fun main() {
-    val remoteServer = "yandex.ru"
+    val remoteServer = "google.com"
     val remotePort = 80
     val port = 36841
 
